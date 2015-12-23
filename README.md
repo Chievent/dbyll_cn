@@ -1,25 +1,18 @@
-dbyll
+dbyll_cn
 =====
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+Dbyll is a beautiful theme. And after scanning tens of jekyll themes, I chose it.
+But there is a pity that I am in China, and some of the configurations are not proper for me.
+So I forked it and decided to transform it to adapt to China's national conditions.
 
-## New
-Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
+## dbyll
+Perfer the original dbyll? [Here](https://github.com/dbtek/dbyll) is the link. 
 
-### Features
-- Responsive layout.
-- Supports tags and categories.
-- Social profile and bio of author.
-- Bootstrap based.
-- Glyphicon and Font-Awesome Icons.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
+### Changes
 
 
 ### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+* [Download dbyll_cn](https://github.com/Chievent/dbyll_cn/archive/master.zip)
 
 ### Screenshots
 
