@@ -22,10 +22,4 @@ Perfer the original dbyll? [Here](https://github.com/dbtek/dbyll) is the link.
 - [MIT](http://opensource.org/licenses/MIT)
 
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-
-
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Chievent/dbyll_cn/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
