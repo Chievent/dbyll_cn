@@ -32,3 +32,7 @@ Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-g
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Chievent/dbyll_cn/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
