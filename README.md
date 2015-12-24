@@ -9,7 +9,7 @@ So I forked it and decided to transform it to adapt to China's national conditio
 Perfer the original dbyll? [Here](https://github.com/dbtek/dbyll) is the link. 
 
 ### Changes
-
+* Add duoshuo comments plugin;
 
 ### Download
 * [Download dbyll_cn](https://github.com/Chievent/dbyll_cn/archive/master.zip)
