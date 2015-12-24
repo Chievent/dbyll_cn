@@ -2,6 +2,10 @@
 theme :
   name : dbyll
 ---
+{% if site.tencent_tencent_analytics_signature %}
+	{% include tencent_analytics.html %}
+{% endif %}
+
 {% if site.baidu_statistics_signature %}
   {% include baidu_statistics.html %}
 {% endif %}

@@ -6,7 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 
-google_analytics_account: dbyll
+# google_analytics_account: dbyll
+tencent_analytics_signature: 53587127 # the signature; javascript 代码中"?"后面的一串数字
 baidu_statistics_signature: 703d5f97a71de4295dddbe5205a83395 # the signature; javascript 代码中"?"后面的一串16进制数字
 
 comments: 
