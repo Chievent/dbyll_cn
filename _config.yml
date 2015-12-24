@@ -18,6 +18,7 @@ defaults:
       path: "" # empty string for all files
     values:
       title: Android and More
+      layout: post
       comments: true
 
 title: Chievent
