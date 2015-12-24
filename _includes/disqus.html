@@ -1,8 +1,8 @@
-{% if site.disqus %}
+{% if site.comments.agent == "disqus" %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = '{{ site.disqus }}';
+    var disqus_shortname = '{{ site.comments.shortname }}';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

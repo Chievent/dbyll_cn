@@ -3,6 +3,11 @@ layout: default
 ---
 {% include post.html %}
 
-{% if site.disqus and page.comments %}
-    {% include disqus.html %}
+{% if page.comments %}
+	{% if site.comments.agent == 'disqus' %}
+	    {% include disqus.html %}
+	{% endif %}
+	{% if site.comments.agent == 'duoshuo' %}
+		{% include duoshuo.html %}
+	{% endif %}
 {% endif %}

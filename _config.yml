@@ -8,12 +8,17 @@ markdown: kramdown
 # disqus: dbyll
 # google_analytics: dbyll
 
+comments: 
+  agent: duoshuo
+  shortname: chievent
+
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
       title: Android and More
+      comments: true
 
 title: Chievent
 description: Blogs about programing especially Android programing by Chievent.
